@@ -859,7 +859,6 @@ REFERENCES
 3.	HindiCodingCommunity(26/02/2023).” Selfish Round-Robin CPU Scheduling in Operating systems.(online) ”Available at: https://www.hindicodingcommunity.com/2023/02/selfish-round-robin-cpu-scheduling-in.html/ (Accessed: 02/12/2023).
 
 4.	Tutorialspoint (n.d). “Selfish Round-Robin CPU Scheduling. (online)”Available athttps://www.tutorialspoint.com/selfish-round-robin-cpu-scheduling/ (Accessed: 02/12/2023).
-![image](https://github.com/JoshuaAddai-Marnu/SRRTrial2/assets/150269769/1d3c4588-06d3-4737-91a3-8b1dd2cd5fa7)
 
 
 
